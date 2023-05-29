@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### create-react-app [project directory]
 ## Install Dependencies
 ### `npm install tailwindcss postcss autoprefixer@^9.8.6`
 ### `npm i @tailwindcss/line-clamp axios js-abbreviation-number react-player moment`
