@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### create-react-app [project directory]
+## Project Demo
+[Video Link](https://drive.google.com/file/d/1RXJS63y3aEt4ksrN5wJi2V0wXVQXiFlg/view?usp=sharing)
 ## Install Dependencies
 ### `npm install tailwindcss postcss autoprefixer@^9.8.6`
 ### `npm i @tailwindcss/line-clamp axios js-abbreviation-number react-player moment`
